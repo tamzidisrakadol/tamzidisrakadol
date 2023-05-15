@@ -1,7 +1,7 @@
 [![Masterhead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*e3jNfHQGTe7f7ptGpa74yA.png)]
 <h1 align="center">Hi 👋, I'm Adol</h1>
 <h3 align="center">A passionate Android Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamzidisrakadol&label=Profile%20views&color=0e75b6&style=flat" alt="tamzidisrakadol" /> </p>
 
